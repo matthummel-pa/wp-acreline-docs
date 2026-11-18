@@ -22,4 +22,4 @@ No. Full-site editing is off. Use the Customizer for identity and Acreline Setti
 That bar is only on the concept site. It is not in the theme you install.
 
 **Where is the theme source?**  
-The source repository is private. These guides are the public documentation.
+The theme source is `matthummel-pa/wp-acreline`. These guides are the public documentation.

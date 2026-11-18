@@ -1,6 +1,6 @@
 # Developers
 
-The theme source is the private repository `matthummel-pa/wp-acreline`. It is a Sage 11 theme (Blade, Tailwind CSS v4, Vite, Acorn). This docs repository has no PHP.
+The theme source is `matthummel-pa/wp-acreline`. It is a Sage 11 theme (Blade, Tailwind CSS v4, Vite, Acorn). This docs repository has no PHP.
 
 ## Layout
 

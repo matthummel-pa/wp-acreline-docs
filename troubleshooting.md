@@ -2,7 +2,7 @@
 
 ## “Vite manifest not found”
 
-The theme cannot find `public/build`. The installable zip includes that folder. A raw copy of the private source repository does not, until someone runs the theme build. Install `acreline.zip` from your receipt, not a Git clone.
+The theme cannot find `public/build`. The installable zip includes that folder. A raw copy of the theme source does not, until someone runs the theme build. Install `acreline.zip` from your receipt, not a Git clone.
 
 ## The homepage looks like the old sample copy
 
