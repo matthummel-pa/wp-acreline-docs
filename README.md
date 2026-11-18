@@ -2,19 +2,7 @@
 
 Setup guides and support for the **Acreline** WordPress theme. Acreline is a theme for solo real estate agents and small teams: homes, listings, showings, neighborhoods, and buyers and sellers. It is sold at [matthummel.com/shop](https://matthummel.com/shop/) and [matthummel.com/product/acreline/](https://matthummel.com/product/acreline/). The theme source lives in a separate repository (`matthummel-pa/wp-acreline`). These docs are public so anyone can see how the theme works before buying.
 
-Screenshots from the live concept demo at [acreline.matthummel.com](https://acreline.matthummel.com/). Listings, agents, phones, emails, and appointments on that site are sample fiction (`555` numbers, `@acreline-concept.test`).
-
-| Home | Listings |
-| --- | --- |
-| [![Home: hero search, sample listings, and a showing request](images/01-homepage.webp)](images/01-homepage.webp) | [![Listings grid with type, price, acreage, and area filters](images/02-listings.webp)](images/02-listings.webp) |
-| **Listing** | **Agents** |
-| [![Listing detail with price, open house, and the listing agent](images/03-listing.webp)](images/03-listing.webp) | [![Agents page with sample team profiles](images/04-agents.webp)](images/04-agents.webp) |
-| **Book a showing** | **Contact** |
-| [![Showing request form](images/05-book.webp)](images/05-book.webp) | [![Contact the office](images/06-contact.webp)](images/06-contact.webp) |
-| **Areas** | **Guide** |
-| [![Neighborhood pages for the sample areas](images/07-areas.webp)](images/07-areas.webp) | [![Buyer guide page](images/08-guide.webp)](images/08-guide.webp) |
-| **Blog** | |
-| [![Blog for agent notes](images/09-blog.webp)](images/09-blog.webp) | |
+Live concept demo: [acreline.matthummel.com](https://acreline.matthummel.com/). Listings, agents, phones, emails, and appointments on that site are sample fiction (`555` numbers, `@acreline-concept.test`).
 
 ## Owner guide
 
